@@ -1,10 +1,11 @@
 # GrizzlyCloud QT client
 
-GrizzlyCloud is a simplified VPN alternative for IoT (Internet of Things). Essentially it's just a client-server architecture that forwards your local TCP port requests to appropriate recipient. GrizzlyCloud QT client aims to provide a cross-platform support for those who find it suitable.
+GrizzlyCloud is a simplified VPN alternative for IoT (Internet of Things). Essentially it's just a client-server architecture that forwards your local TCP port requests to appropriate recipient. GrizzlyCloud QT client aims to provide a cross-platform support for those who find it suitable. For everyone there is client in [C language](https://grizzlycloud.com/wiki/doku.php?id=commands).
 
 # Requirements
 
 GrizzlyCloud QT client was developed using QT5 framework (5.10.0). It was not tested under any other QT version.
+[GrizzlyCloud QT library](https://github.com/GrizzlyCloud/grizzlycloudlibqt) is essential.
 
 # Guide
 
