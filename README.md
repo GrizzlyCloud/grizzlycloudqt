@@ -20,4 +20,4 @@ Find out more about format of config file and available commands at [Wiki pages]
 
 # Disclaimer
 
-This version of client, although fully working, is not meant for a production environment. If you decide to improve it, please submit a pull request also.
+This version of client is abandonware and it's only present becase of somebody who's interested in QT implementation. You should use [C version](https://github.com/GrizzlyCloud/grizzlycloudlib) instead.
